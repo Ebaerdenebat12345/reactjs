@@ -36,13 +36,24 @@
     margin-left: 10px;
 
 }
-SearchInput{
+.searchInput{
     border: none;
-    width: 70px;
+    width: 70%;
 }
+.searchInput:focus{
+    outline: none;
+}
+
 .topbarRight{
     flex: 4;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: white;
     
+}
+.topbarLink{
+    margin-right: 10px;
 }
 .topbarImg{
     width: 32px;
