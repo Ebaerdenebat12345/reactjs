@@ -1,5 +1,5 @@
 import "./topbar.css"
-import { Search} from "@mui/icons-material"
+import { Search,Person,Chat,Notifications} from "@mui/icons-material"
 
 export default function Topbar() {
   return (
@@ -15,10 +15,28 @@ export default function Topbar() {
         </div>
       </div>
       <div className="topbarRight">
-        <div className="topbarLinks"></div>
+        <div className="topbarLinks">
+          <span className="topbarLink">Homepage</span>
+          <span className="topbarLink">Timeline</span>
+        </div>
+        <div className="TopbarIcons">
+        <div className="topbarIconItem">
+             <Person/>
+             <span className="topbarIconBadge">1</span>
+          </div>
+          <div className="topbarIconItem">
+             <Chat/>
+             <span className="topbarIconBadge">2</span>
+          </div>
+          <div className="topbarIconItem">
+             <Notifications/>
+             <span className="topbarIconBadge">1</span>
+          </div>
+        </div>
+         <img src="/ebabaa/person/teamm.png" alt="" className="topbar Img" />
 
       </div>
       
     </div>
-  )
+  );
 }
