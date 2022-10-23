@@ -1,5 +1,5 @@
 import "./share.css"
-import {PermMedia} from "@mui/icons-material"
+import {PermMedia,Room, EmojiEmotions, Label} from "@mui/icons-material"
 
 export default function Share() {
   return (
@@ -16,9 +16,22 @@ export default function Share() {
             <div className="sharebottom">
                 <div className="shareOptions">
                     <div className="shareOption">
-                        <PermMedia className="shreIcon"/>
+                        <PermMedia htmlColor="tomato" className="shareIcon"/>
                         <span className="shareOptionText"> photo or video</span>
                     </div>
+                    <div className="shareOption">
+                        <Label htmlColor="blue" className="shareIcon"/>
+                        <span className="shareOptionText"> Tag</span>
+                    </div>
+                    <div className="shareOption">
+                        <Room htmlColor="green" className="shareIcon"/>
+                        <span className="shareOptionText"> Location</span>
+                    </div>
+                    <div className="shareOption">
+                        <EmojiEmotions htmlColor="goldenrod" className="shareIcon"/>
+                        <span className="shareOptionText"> Feelings</span>
+                    </div>
+                    <button className="shareButton">share</button>
                 </div>
             </div>
 
