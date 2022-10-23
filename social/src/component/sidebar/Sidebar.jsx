@@ -51,6 +51,46 @@ export default function sidebar(){
                     </li>
                     
                 </ul>
+                <button className="sidebarButton">show more </button>
+                <hr className="sidebarHr"/>
+                <ul className="sidebarFriendList">
+                    <li className="sidebarFriend">
+                        <img className="sidebarFriendImg" src="/ebabaa/person/team.webp" alt="" />
+                        <span className="sidebarFriendName"> Jane Doe</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img className="sidebarFriendImg" src="/ebabaa/person/team.webp" alt="" />
+                        <span className="sidebarFriendName"> Jane Doe</span>
+                    </li> <li className="sidebarFriend">
+                        <img className="sidebarFriendImg" src="/ebabaa/person/team.webp" alt="" />
+                        <span className="sidebarFriendName"> Jane Doe</span>
+                    </li> <li className="sidebarFriend">
+                        <img className="sidebarFriendImg" src="/ebabaa/person/team.webp" alt="" />
+                        <span className="sidebarFriendName"> Jane Doe</span>
+                    </li> <li className="sidebarFriend">
+                        <img className="sidebarFriendImg" src="/ebabaa/person/team.webp" alt="" />
+                        <span className="sidebarFriendName"> Jane Doe</span>
+                    </li> <li className="sidebarFriend">
+                        <img className="sidebarFriendImg" src="/ebabaa/person/team.webp" alt="" />
+                        <span className="sidebarFriendName"> Jane Doe</span>
+                    </li> <li className="sidebarFriend">
+                        <img className="sidebarFriendImg" src="/ebabaa/person/team.webp" alt="" />
+                        <span className="sidebarFriendName"> Jane Doe</span>
+                    </li> <li className="sidebarFriend">
+                        <img className="sidebarFriendImg" src="/ebabaa/person/team.webp" alt="" />
+                        <span className="sidebarFriendName"> Jane Doe</span>
+                    </li> <li className="sidebarFriend">
+                        <img className="sidebarFriendImg" src="/ebabaa/person/team.webp" alt="" />
+                        <span className="sidebarFriendName"> Jane Doe</span>
+                    </li> <li className="sidebarFriend">
+                        <img className="sidebarFriendImg" src="/ebabaa/person/team.webp" alt="" />
+                        <span className="sidebarFriendName"> Jane Doe</span>
+                    </li> <li className="sidebarFriend">
+                        <img className="sidebarFriendImg" src="/ebabaa/person/team.webp" alt="" />
+                        <span className="sidebarFriendName"> Jane Doe</span>
+                    </li>
+                
+                </ul>
             </div>
         </div>
     )
