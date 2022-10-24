@@ -1,5 +1,6 @@
 import Home from "./pages/home/Home";
-import {Person} from "@mui/icons-material"
+import {} from "@mui/icons-material"
+
 function App() {
   return <Home/>
  
