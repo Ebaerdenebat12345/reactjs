@@ -10,6 +10,14 @@ export default function Rightbar(){
                 </div>
                 <img className="rightbarAd" src="ebabaa/images.jpg" alt="" />
                 <h4 className="rightbarTitle">online friends</h4>
+                <ul className="rightbarFriendList">
+                    <li className="rightbarFriend">
+                        <div className="rightbarProfileImgContainer">
+                            <img className="rightbarProfileImg" src="ebabaa/person/team.webp" alt="" />
+                            <span className="rightbarOnline"></span>
+                        </div>
+                    </li>
+                </ul>
             </div>
 
         </div>
