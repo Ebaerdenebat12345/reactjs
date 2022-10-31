@@ -16,7 +16,121 @@ export default function Rightbar(){
                             <img className="rightbarProfileImg" src="ebabaa/person/team.webp" alt="" />
                             <span className="rightbarOnline"></span>
                         </div>
+                        <span className="rightbarUsername">erdenebat</span>
                     </li>
+                    <li className="rightbarFriend">
+                        <div className="rightbarProfileImgContainer">
+                            <img className="rightbarProfileImg" src="ebabaa/person/team.webp" alt="" />
+                            <span className="rightbarOnline"></span>
+                        </div>
+                        <span className="rightbarUsername">erdenebat</span>
+                    </li>
+                    <li className="rightbarFriend">
+                        <div className="rightbarProfileImgContainer">
+                            <img className="rightbarProfileImg" src="ebabaa/person/team.webp" alt="" />
+                            <span className="rightbarOnline"></span>
+                        </div>
+                        <span className="rightbarUsername">erdenebat</span>
+                    </li>
+                    <li className="rightbarFriend">
+                        <div className="rightbarProfileImgContainer">
+                            <img className="rightbarProfileImg" src="ebabaa/person/team.webp" alt="" />
+                            <span className="rightbarOnline"></span>
+                        </div>
+                        <span className="rightbarUsername">erdenebat</span>
+                    </li>
+                    <li className="rightbarFriend">
+                        <div className="rightbarProfileImgContainer">
+                            <img className="rightbarProfileImg" src="ebabaa/person/team.webp" alt="" />
+                            <span className="rightbarOnline"></span>
+                        </div>
+                        <span className="rightbarUsername">erdenebat</span>
+                    </li>
+                    <li className="rightbarFriend">
+                        <div className="rightbarProfileImgContainer">
+                            <img className="rightbarProfileImg" src="ebabaa/person/team.webp" alt="" />
+                            <span className="rightbarOnline"></span>
+                        </div>
+                        <span className="rightbarUsername">erdenebat</span>
+                    </li>
+                    <li className="rightbarFriend">
+                        <div className="rightbarProfileImgContainer">
+                            <img className="rightbarProfileImg" src="ebabaa/person/team.webp" alt="" />
+                            <span className="rightbarOnline"></span>
+                        </div>
+                        <span className="rightbarUsername">erdenebat</span>
+                    </li>
+                    <li className="rightbarFriend">
+                        <div className="rightbarProfileImgContainer">
+                            <img className="rightbarProfileImg" src="ebabaa/person/team.webp" alt="" />
+                            <span className="rightbarOnline"></span>
+                        </div>
+                        <span className="rightbarUsername">erdenebat</span>
+                    </li>
+                    <li className="rightbarFriend">
+                        <div className="rightbarProfileImgContainer">
+                            <img className="rightbarProfileImg" src="ebabaa/person/team.webp" alt="" />
+                            <span className="rightbarOnline"></span>
+                        </div>
+                        <span className="rightbarUsername">erdenebat</span>
+                    </li>
+                    <li className="rightbarFriend">
+                        <div className="rightbarProfileImgContainer">
+                            <img className="rightbarProfileImg" src="ebabaa/person/team.webp" alt="" />
+                            <span className="rightbarOnline"></span>
+                        </div>
+                        <span className="rightbarUsername">erdenebat</span>
+                    </li>
+                    <li className="rightbarFriend">
+                        <div className="rightbarProfileImgContainer">
+                            <img className="rightbarProfileImg" src="ebabaa/person/team.webp" alt="" />
+                            <span className="rightbarOnline"></span>
+                        </div>
+                        <span className="rightbarUsername">erdenebat</span>
+                    </li>
+                    <li className="rightbarFriend">
+                        <div className="rightbarProfileImgContainer">
+                            <img className="rightbarProfileImg" src="ebabaa/person/team.webp" alt="" />
+                            <span className="rightbarOnline"></span>
+                        </div>
+                        <span className="rightbarUsername">erdenebat</span>
+                    </li>
+                    <li className="rightbarFriend">
+                        <div className="rightbarProfileImgContainer">
+                            <img className="rightbarProfileImg" src="ebabaa/person/team.webp" alt="" />
+                            <span className="rightbarOnline"></span>
+                        </div>
+                        <span className="rightbarUsername">erdenebat</span>
+                    </li>
+                    <li className="rightbarFriend">
+                        <div className="rightbarProfileImgContainer">
+                            <img className="rightbarProfileImg" src="ebabaa/person/team.webp" alt="" />
+                            <span className="rightbarOnline"></span>
+                        </div>
+                        <span className="rightbarUsername">erdenebat</span>
+                    </li>
+                    <li className="rightbarFriend">
+                        <div className="rightbarProfileImgContainer">
+                            <img className="rightbarProfileImg" src="ebabaa/person/team.webp" alt="" />
+                            <span className="rightbarOnline"></span>
+                        </div>
+                        <span className="rightbarUsername">erdenebat</span>
+                    </li>
+                    <li className="rightbarFriend">
+                        <div className="rightbarProfileImgContainer">
+                            <img className="rightbarProfileImg" src="ebabaa/person/team.webp" alt="" />
+                            <span className="rightbarOnline"></span>
+                        </div>
+                        <span className="rightbarUsername">erdenebat</span>
+                    </li>
+                    <li className="rightbarFriend">
+                        <div className="rightbarProfileImgContainer">
+                            <img className="rightbarProfileImg" src="ebabaa/person/team.webp" alt="" />
+                            <span className="rightbarOnline"></span>
+                        </div>
+                        <span className="rightbarUsername">erdenebat</span>
+                    </li>
+                    
                 </ul>
             </div>
 
