@@ -1,8 +1,6 @@
 import "./rightbar.css"
 import {Users} from "../../dummyData"
-
-
-
+import Online from "../online/online";
 
 export default function Rightbar(){
     return(
@@ -15,14 +13,12 @@ export default function Rightbar(){
                 <img className="rightbarAd" src="ebabaa/images.jpg" alt="" />
                 <h4 className="rightbarTitle">Online friends</h4>
                 <ul className="rightbarFriendList">
-                  {Users.map((u)=> (
-
-          
-                   <Online key={u.id} post={u}/>
-                  ))}                 
+                 {Users.map(u=>(
+                   <Online key={u.id} user={u}/> 
+                 ))}                 
                 </ul>
             </div>
 
         </div>
-    );
+    )
 }

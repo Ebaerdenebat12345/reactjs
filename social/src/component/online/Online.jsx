@@ -1,6 +1,6 @@
 import "./online.css"
 
-export default function Online({user}) {
+export default function online() {
   return (
     <li className="rightbarFriend">
     <div className="rightbarProfileImgContainer">
@@ -9,5 +9,6 @@ export default function Online({user}) {
     </div>
     <span className="rightbarUsername">{user.username}</span>
 </li> 
-  );
+  )
 }
+
