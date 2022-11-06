@@ -1,6 +1,9 @@
 import "./rightbar.css"
 import {Users} from "../../dummyData"
 
+
+
+
 export default function Rightbar(){
     return(
         <div className="rightbar">
@@ -10,14 +13,16 @@ export default function Rightbar(){
                 <span className="birthdayText"><b>tumruu ba </b>tvvnii naizuudiin uur hurgesen aaaaaaaaaa <b>birthday</b></span>
                 </div>
                 <img className="rightbarAd" src="ebabaa/images.jpg" alt="" />
-                <h4 className="rightbarTitle">online friends</h4>
+                <h4 className="rightbarTitle">Online friends</h4>
                 <ul className="rightbarFriendList">
-                    {Users.map((u) => (
-                        <Online key={u.id} user={u} />
-                    ))}                    
+                  {Users.map((u)=> (
+
+          
+                   <Online key={u.id} post={u}/>
+                  ))}                 
                 </ul>
             </div>
 
         </div>
-    )
+    );
 }

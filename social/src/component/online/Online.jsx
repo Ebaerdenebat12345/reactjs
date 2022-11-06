@@ -9,5 +9,5 @@ export default function Online({user}) {
     </div>
     <span className="rightbarUsername">{user.username}</span>
 </li> 
-  )
+  );
 }
