@@ -3,6 +3,6 @@ import {} from "@mui/icons-material"
 import Profile from "./pages/profile/Profile";
 
 function App() {
-  return <Profile/>
+  return <Home/>
 }
 export default App;

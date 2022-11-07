@@ -7,13 +7,17 @@ import Rightbar from "../../component/rightbar/Rightbar"
 export default function Profile() {
   return (
     <>
-    <Topbar/>
-    <div className="homeContainer">
-    <Sidebar/>
-    <Feed/>
-    <Rightbar/>
-
-    </div>
+         <Topbar/>
+        <div className="profile">
+        <Sidebar/>
+        <div className="profileRight">
+          <div className="profileRightTop">asdad</div>
+          <div className="profileRightTopBottom">
+             <Feed/>
+             <Rightbar/>
+          </div>
+         </div>
+      </div>
    
     </>
   )
