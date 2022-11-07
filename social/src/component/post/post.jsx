@@ -1,8 +1,12 @@
 import "./post.css"
 import {MoreVert} from "@mui/icons-material"
 import { Users } from "../../dummyData";
+import { useState } from "react";
+
 
 export default function post({post}) {
+  
+
   return (
     <div className="post">
       <div className="postWrapper">
